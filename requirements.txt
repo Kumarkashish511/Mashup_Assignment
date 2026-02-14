@@ -1,0 +1,6 @@
+flask
+flask-mail
+yt-dlp
+pydub
+gunicorn
+sendgrid
